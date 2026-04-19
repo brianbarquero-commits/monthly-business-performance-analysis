@@ -1,13 +1,18 @@
-Monthly Business Performance Report 
+Monthly Business Performance Report Analysis
 
-How can we quickly evaluate performance across product categories and identify the most profitable and least efficient transactions?
+Analyzed business revenue and cost data using Python (pandas) to identify profitability trends, category performance, and short-term forecasts.
+
+This project focuses on:
+- Identifying high- and low performing categories using profit and margin metrics
+- Detecting trends usings monthly aggregation and moving averages
+- Estimating next-month performance using simple forecasting methods
 
 monthly_data.csv
 
 *Dataset*
 Columns:
-category
-revenue 
+category,
+revenue, 
 cost
 
 *Metrics Created*
